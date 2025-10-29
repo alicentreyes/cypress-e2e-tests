@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "cy:run:chrome": "cypress run -b chrome",
+        "cy:run:firefox": "cypress run -b firefox"
+    }
+}
